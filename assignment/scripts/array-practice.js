@@ -8,7 +8,7 @@ let animalArray = ['fish', 'cat', 'bird', 'dog'];
 console.log('Animals are: ', animalArray);
 
 // 1.a. TODO: Make an array with some favorite foods
-let favoriteFoods = [ 'pineapple', 'chicken', 'pasta', 'baguette' ];
+let favoriteFoods = [ 'Pineapple', 'Chicken', 'Pasta', 'Baguette' ];
 
 // 1.b. TODO: Log your array of foods to the console with a message, similar
 //      to the example above
@@ -49,7 +49,7 @@ animalArray.push('penguin');
 console.log('Added an animal to end,', animalArray);
 
 // 4.a. TODO: Add a new food at the end of your array & log the array
-favoriteFoods.push('burgers');
+favoriteFoods.push('Burgers');
   console.log('Added another food to the end,', favoriteFoods);
 
 
@@ -69,7 +69,7 @@ animalArray.unshift('walrus');
 console.log(`Added an animal to beginning: ${animalArray}`);
 
 // 4.c. TODO: Add a food at the beginning of the array & log the array
-favoriteFoods.unshift('blueberries');
+favoriteFoods.unshift('Blueberries');
   console.log(`Added a food to the beginning: ${favoriteFoods}`);
 
 // Example: Remove the first animal using Array.shift
